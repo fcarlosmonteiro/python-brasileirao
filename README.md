@@ -44,22 +44,6 @@ brasileirao.salvar_json(dados_a, 'serie_a.json')
 brasileirao.close()
 ```
 
-### Usando context manager (recomendado)
-```python
-# Usando with (fecha automaticamente)
-with Brasileirao() as brasileirao:
-    dados_a = brasileirao.obter_dados_brasileirao_a(rodadas=True)
-    brasileirao.salvar_json(dados_a, 'serie_a.json')
-```
-
-### Usando funções de conveniência
-```python
-# Série A
-dados_a = obter_dados_brasileirao_a(rodadas=True)
-
-# Série B
-dados_b = obter_dados_brasileirao_b(rodadas=False)
-```
 
 ## 📊 Estrutura dos Dados
 
@@ -179,21 +163,7 @@ python-brasileirao/
 └── README.md                # Este arquivo
 ```
 
-## 📋 Créditos e Licença
+## 📋 Créditos
 
-### 🤝 **Projeto Original**
+### **Projeto Original**
 Este projeto é uma versão Python do [@victorsouzaleal/brasileirao](https://github.com/victorsouzaleal/brasileirao), desenvolvido em TypeScript/JavaScript.
-
-**Características do projeto original:**
-- ✅ **4 stars** e **3 forks** no GitHub
-- ✅ **Licença MIT** - Software livre e open source
-- ✅ **API compatível** - Mesma estrutura de dados
-- ✅ **Funcionalidades completas** - Tabela e rodadas das Séries A e B
-
-### 📄 **Licença**
-Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
-
-### 🙏 **Agradecimentos**
-- **@victorsouzaleal** - Pelo projeto original em TypeScript
-- **Comunidade open source** - Pela inspiração e colaboração
-- **Contribuidores** - Por tornarem este projeto possível
