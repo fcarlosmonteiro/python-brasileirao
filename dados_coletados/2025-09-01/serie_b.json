@@ -1,0 +1,4352 @@
+{
+  "tabela": [
+    {
+      "nome": "Goiás",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/1l1fquu71jjbfck687qvikc3l.png",
+      "posicao": "1",
+      "pontos": "44",
+      "jogos": "24",
+      "vitorias": "13",
+      "empates": "5",
+      "derrotas": "6",
+      "gols_pro": "31",
+      "gols_contra": "23",
+      "saldo_gols": "8",
+      "aproveitamento": "61%"
+    },
+    {
+      "nome": "Coritiba",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/3p9vcs09idkg4n8qchesbbk143.png",
+      "posicao": "2",
+      "pontos": "43",
+      "jogos": "24",
+      "vitorias": "12",
+      "empates": "7",
+      "derrotas": "5",
+      "gols_pro": "24",
+      "gols_contra": "16",
+      "saldo_gols": "8",
+      "aproveitamento": "59%"
+    },
+    {
+      "nome": "Chapecoense",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/45pmtlqrtqh52qnch6fl7cdc1f.png",
+      "posicao": "3",
+      "pontos": "40",
+      "jogos": "23",
+      "vitorias": "12",
+      "empates": "4",
+      "derrotas": "7",
+      "gols_pro": "34",
+      "gols_contra": "20",
+      "saldo_gols": "14",
+      "aproveitamento": "57%"
+    },
+    {
+      "nome": "Criciúma",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/5lo7fj7n4g6j074k8ofn2ir1lv.png",
+      "posicao": "4",
+      "pontos": "39",
+      "jogos": "24",
+      "vitorias": "11",
+      "empates": "6",
+      "derrotas": "7",
+      "gols_pro": "31",
+      "gols_contra": "21",
+      "saldo_gols": "10",
+      "aproveitamento": "54%"
+    },
+    {
+      "nome": "Novorizontino",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/2if5k1p9eb8nk0huov6rbt9pg6.png",
+      "posicao": "5",
+      "pontos": "36",
+      "jogos": "24",
+      "vitorias": "9",
+      "empates": "9",
+      "derrotas": "6",
+      "gols_pro": "26",
+      "gols_contra": "23",
+      "saldo_gols": "3",
+      "aproveitamento": "50%"
+    },
+    {
+      "nome": "Remo",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/1aa07bo5lpbm9u7riqh8ishv8d.png",
+      "posicao": "6",
+      "pontos": "35",
+      "jogos": "24",
+      "vitorias": "8",
+      "empates": "11",
+      "derrotas": "5",
+      "gols_pro": "24",
+      "gols_contra": "21",
+      "saldo_gols": "3",
+      "aproveitamento": "48%"
+    },
+    {
+      "nome": "CRB",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/u9q933ef952thob5tsdad52s9.png",
+      "posicao": "7",
+      "pontos": "34",
+      "jogos": "24",
+      "vitorias": "10",
+      "empates": "4",
+      "derrotas": "10",
+      "gols_pro": "26",
+      "gols_contra": "22",
+      "saldo_gols": "4",
+      "aproveitamento": "47%"
+    },
+    {
+      "nome": "Vila Nova",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/6llvnnvm4kp1pudth84jovdmen.png",
+      "posicao": "8",
+      "pontos": "33",
+      "jogos": "23",
+      "vitorias": "10",
+      "empates": "3",
+      "derrotas": "10",
+      "gols_pro": "22",
+      "gols_contra": "22",
+      "saldo_gols": "0",
+      "aproveitamento": "47%"
+    },
+    {
+      "nome": "Operário PR",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/3limt30sq3lut6ru8erhurejeh.png",
+      "posicao": "9",
+      "pontos": "33",
+      "jogos": "24",
+      "vitorias": "9",
+      "empates": "6",
+      "derrotas": "9",
+      "gols_pro": "26",
+      "gols_contra": "23",
+      "saldo_gols": "3",
+      "aproveitamento": "45%"
+    },
+    {
+      "nome": "Cuiabá",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/11p2euj81m2v7dkio2ltatce00.png",
+      "posicao": "10",
+      "pontos": "33",
+      "jogos": "23",
+      "vitorias": "9",
+      "empates": "6",
+      "derrotas": "8",
+      "gols_pro": "27",
+      "gols_contra": "27",
+      "saldo_gols": "0",
+      "aproveitamento": "47%"
+    },
+    {
+      "nome": "Athletico-PR",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/75o43o0earfc5dq32bhtbpph3f.png",
+      "posicao": "11",
+      "pontos": "33",
+      "jogos": "24",
+      "vitorias": "9",
+      "empates": "6",
+      "derrotas": "9",
+      "gols_pro": "31",
+      "gols_contra": "33",
+      "saldo_gols": "-2",
+      "aproveitamento": "45%"
+    },
+    {
+      "nome": "Avaí",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/qpod9bpgr5qh7lv76escg53f3.png",
+      "posicao": "12",
+      "pontos": "33",
+      "jogos": "23",
+      "vitorias": "8",
+      "empates": "9",
+      "derrotas": "6",
+      "gols_pro": "30",
+      "gols_contra": "23",
+      "saldo_gols": "7",
+      "aproveitamento": "47%"
+    },
+    {
+      "nome": "Atlético Goianiense",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/5ns4pb4f1675vuvl972ku1mna7.png",
+      "posicao": "13",
+      "pontos": "31",
+      "jogos": "24",
+      "vitorias": "7",
+      "empates": "10",
+      "derrotas": "7",
+      "gols_pro": "26",
+      "gols_contra": "26",
+      "saldo_gols": "0",
+      "aproveitamento": "43%"
+    },
+    {
+      "nome": "Ferroviária",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/792u7qgp7cpa57gb3h24g1booa.png",
+      "posicao": "14",
+      "pontos": "30",
+      "jogos": "23",
+      "vitorias": "7",
+      "empates": "9",
+      "derrotas": "7",
+      "gols_pro": "25",
+      "gols_contra": "24",
+      "saldo_gols": "1",
+      "aproveitamento": "43%"
+    },
+    {
+      "nome": "Athletic Club",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/5utv3i1eniml3fj4pq0c6520fq.png",
+      "posicao": "15",
+      "pontos": "28",
+      "jogos": "24",
+      "vitorias": "8",
+      "empates": "4",
+      "derrotas": "12",
+      "gols_pro": "26",
+      "gols_contra": "33",
+      "saldo_gols": "-7",
+      "aproveitamento": "38%"
+    },
+    {
+      "nome": "Botafogo-SP",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/676j9q45b50cihkvqn6cpda9c4.png",
+      "posicao": "16",
+      "pontos": "28",
+      "jogos": "24",
+      "vitorias": "7",
+      "empates": "7",
+      "derrotas": "10",
+      "gols_pro": "20",
+      "gols_contra": "33",
+      "saldo_gols": "-13",
+      "aproveitamento": "38%"
+    },
+    {
+      "nome": "Amazonas",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/amazonas04bj2hr308uuh7u8d.png",
+      "posicao": "17",
+      "pontos": "24",
+      "jogos": "24",
+      "vitorias": "5",
+      "empates": "9",
+      "derrotas": "10",
+      "gols_pro": "25",
+      "gols_contra": "34",
+      "saldo_gols": "-9",
+      "aproveitamento": "33%"
+    },
+    {
+      "nome": "Volta Redonda",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/ekfv5r72r928cmn57ibr3v19o.png",
+      "posicao": "18",
+      "pontos": "23",
+      "jogos": "24",
+      "vitorias": "5",
+      "empates": "8",
+      "derrotas": "11",
+      "gols_pro": "14",
+      "gols_contra": "26",
+      "saldo_gols": "-12",
+      "aproveitamento": "31%"
+    },
+    {
+      "nome": "América-MG",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/3vtvo5llkn0e8hkfs3sntpnkmg.png",
+      "posicao": "19",
+      "pontos": "22",
+      "jogos": "23",
+      "vitorias": "6",
+      "empates": "4",
+      "derrotas": "13",
+      "gols_pro": "23",
+      "gols_contra": "32",
+      "saldo_gols": "-9",
+      "aproveitamento": "31%"
+    },
+    {
+      "nome": "Paysandu",
+      "escudo": "https://p2.trrsf.com/image/fget/cf/51/51/s1.trrsf.com/musa/pro/3u9vt5fdbsdqlnbh9hr9s1u25o.png",
+      "posicao": "20",
+      "pontos": "21",
+      "jogos": "24",
+      "vitorias": "4",
+      "empates": "9",
+      "derrotas": "11",
+      "gols_pro": "20",
+      "gols_contra": "29",
+      "saldo_gols": "-9",
+      "aproveitamento": "29%"
+    }
+  ],
+  "rodadas": [
+    {
+      "rodada": "1ª rodada",
+      "inicio": "04/04/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Goiás x Amazonas",
+          "data": "Sex 04/04 19h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Goiás 1 x 0 Amazonas"
+        },
+        {
+          "partida": "Criciúma x Operário PR",
+          "data": "Sex 04/04 21h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Operário PR",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Criciúma 1 x 2 Operário PR"
+        },
+        {
+          "partida": "Paysandu x Athletico-PR",
+          "data": "Sex 04/04 21h00",
+          "local": "Mangueirão",
+          "time_casa": "Paysandu",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Paysandu 1 x 2 Athletico-PR"
+        },
+        {
+          "partida": "CRB x Chapecoense",
+          "data": "Sáb 05/04 16h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 1 x 0 Chapecoense"
+        },
+        {
+          "partida": "Coritiba x Vila Nova",
+          "data": "Sáb 05/04 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Vila Nova",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 1 x 0 Vila Nova"
+        },
+        {
+          "partida": "América-MG x Botafogo-SP",
+          "data": "Sáb 05/04 18h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "América-MG 1 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "Ferroviária x Remo",
+          "data": "Dom 06/04 19h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Ferroviária 1 x 1 Remo"
+        },
+        {
+          "partida": "Volta Redonda x Cuiabá",
+          "data": "Dom 06/04 19h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Cuiabá",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Volta Redonda 0 x 1 Cuiabá"
+        },
+        {
+          "partida": "Avaí x Novorizontino",
+          "data": "Dom 06/04 20h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Novorizontino",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Avaí 1 x 1 Novorizontino"
+        },
+        {
+          "partida": "Atlético Goianiense x Athletic Club",
+          "data": "Seg 07/04 19h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Athletic Club",
+          "gols_casa": "4",
+          "gols_fora": "2",
+          "resultado_texto": "Atlético Goianiense 4 x 2 Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "2ª rodada",
+      "inicio": "10/04/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletico-PR x Criciúma",
+          "data": "Qui 10/04 19h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Criciúma",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 2 x 1 Criciúma"
+        },
+        {
+          "partida": "Cuiabá x Avaí",
+          "data": "Qui 10/04 21h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Avaí",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Cuiabá 2 x 2 Avaí"
+        },
+        {
+          "partida": "Chapecoense x Coritiba",
+          "data": "Sáb 12/04 16h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Chapecoense 1 x 2 Coritiba"
+        },
+        {
+          "partida": "Vila Nova x Paysandu",
+          "data": "Sáb 12/04 18h00",
+          "local": "Estádio Serra Dourada",
+          "time_casa": "Vila Nova",
+          "time_fora": "Paysandu",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 1 x 0 Paysandu"
+        },
+        {
+          "partida": "Amazonas x Ferroviária",
+          "data": "Sáb 12/04 19h00",
+          "local": "Arena Amazonia",
+          "time_casa": "Amazonas",
+          "time_fora": "Ferroviária",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Amazonas 0 x 0 Ferroviária"
+        },
+        {
+          "partida": "Novorizontino x Volta Redonda",
+          "data": "Sáb 12/04 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Novorizontino 1 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Operário PR x Goiás",
+          "data": "Sáb 12/04 20h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Goiás",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Operário PR 1 x 2 Goiás"
+        },
+        {
+          "partida": "Athletic Club x CRB",
+          "data": "Dom 13/04 16h00",
+          "local": "Estádio Independência",
+          "time_casa": "Athletic Club",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Athletic Club 1 x 2 CRB"
+        },
+        {
+          "partida": "Remo x América-MG",
+          "data": "Dom 13/04 16h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "América-MG",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Remo 2 x 0 América-MG"
+        },
+        {
+          "partida": "Botafogo-SP x Atlético Goianiense",
+          "data": "Dom 13/04 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Botafogo-SP 1 x 1 Atlético Goianiense"
+        }
+      ]
+    },
+    {
+      "rodada": "3ª rodada",
+      "inicio": "15/04/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Cuiabá x Athletico-PR",
+          "data": "Ter 15/04 19h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Cuiabá 2 x 1 Athletico-PR"
+        },
+        {
+          "partida": "Avaí x Operário PR",
+          "data": "Qua 16/04 20h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Operário PR",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 1 x 0 Operário PR"
+        },
+        {
+          "partida": "Paysandu x Chapecoense",
+          "data": "Qua 16/04 20h00",
+          "local": "Mangueirão",
+          "time_casa": "Paysandu",
+          "time_fora": "Chapecoense",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Paysandu 0 x 2 Chapecoense"
+        },
+        {
+          "partida": "Coritiba x Novorizontino",
+          "data": "Qua 16/04 21h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Novorizontino",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 0 x 0 Novorizontino"
+        },
+        {
+          "partida": "Goiás x Vila Nova",
+          "data": "Qui 17/04 19h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Vila Nova",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Goiás 2 x 2 Vila Nova"
+        },
+        {
+          "partida": "Botafogo-SP x Remo",
+          "data": "Qui 17/04 20h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Remo",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Botafogo-SP 2 x 2 Remo"
+        },
+        {
+          "partida": "CRB x Volta Redonda",
+          "data": "Qui 17/04 20h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 1 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Criciúma x Athletic Club",
+          "data": "Qui 17/04 20h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Athletic Club",
+          "gols_casa": "4",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 4 x 0 Athletic Club"
+        },
+        {
+          "partida": "Ferroviária x Atlético Goianiense",
+          "data": "Qui 17/04 21h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Ferroviária 2 x 0 Atlético Goianiense"
+        },
+        {
+          "partida": "América-MG x Amazonas",
+          "data": "Qui 17/04 21h35",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Amazonas",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 3 x 1 Amazonas"
+        }
+      ]
+    },
+    {
+      "rodada": "4ª rodada",
+      "inicio": "19/04/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Operário PR x Paysandu",
+          "data": "Sáb 19/04 16h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Paysandu",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 0 x 0 Paysandu"
+        },
+        {
+          "partida": "Vila Nova x Botafogo-SP",
+          "data": "Dom 20/04 16h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 2 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "Chapecoense x Athletic Club",
+          "data": "Dom 20/04 18h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Chapecoense 1 x 0 Athletic Club"
+        },
+        {
+          "partida": "Athletico-PR x CRB",
+          "data": "Dom 20/04 19h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "CRB",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Athletico-PR 2 x 0 CRB"
+        },
+        {
+          "partida": "América-MG x Goiás",
+          "data": "Dom 20/04 20h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Goiás",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "América-MG 1 x 0 Goiás"
+        },
+        {
+          "partida": "Amazonas x Avaí",
+          "data": "Seg 21/04 18h00",
+          "local": "Arena Amazonia",
+          "time_casa": "Amazonas",
+          "time_fora": "Avaí",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Amazonas 0 x 2 Avaí"
+        },
+        {
+          "partida": "Novorizontino x Criciúma",
+          "data": "Seg 21/04 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 1 x 1 Criciúma"
+        },
+        {
+          "partida": "Remo x Coritiba",
+          "data": "Seg 21/04 21h30",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Remo 1 x 0 Coritiba"
+        },
+        {
+          "partida": "Atlético Goianiense x Cuiabá",
+          "data": "Ter 22/04 19h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Cuiabá",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Atlético Goianiense 1 x 1 Cuiabá"
+        },
+        {
+          "partida": "Volta Redonda x Ferroviária",
+          "data": "Ter 22/04 20h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Ferroviária",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Volta Redonda 0 x 0 Ferroviária"
+        }
+      ]
+    },
+    {
+      "rodada": "5ª rodada",
+      "inicio": "24/04/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Novorizontino x Athletico-PR",
+          "data": "Qui 24/04 21h35",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 2 x 1 Athletico-PR"
+        },
+        {
+          "partida": "Criciúma x Remo",
+          "data": "Sex 25/04 19h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Criciúma 1 x 1 Remo"
+        },
+        {
+          "partida": "Vila Nova x Chapecoense",
+          "data": "Sex 25/04 21h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 1 x 0 Chapecoense"
+        },
+        {
+          "partida": "Coritiba x Operário PR",
+          "data": "Sáb 26/04 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 2 x 0 Operário PR"
+        },
+        {
+          "partida": "Avaí x América-MG",
+          "data": "Sáb 26/04 20h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "América-MG",
+          "gols_casa": "3",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 3 x 0 América-MG"
+        },
+        {
+          "partida": "Athletic Club x Volta Redonda",
+          "data": "Dom 27/04 16h00",
+          "local": "Estádio Independência",
+          "time_casa": "Athletic Club",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 2 x 1 Volta Redonda"
+        },
+        {
+          "partida": "Amazonas x Atlético Goianiense",
+          "data": "Dom 27/04 16h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Amazonas 1 x 1 Atlético Goianiense"
+        },
+        {
+          "partida": "Paysandu x CRB",
+          "data": "Dom 27/04 17h00",
+          "local": "Mangueirão",
+          "time_casa": "Paysandu",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Paysandu 1 x 1 CRB"
+        },
+        {
+          "partida": "Cuiabá x Ferroviária",
+          "data": "Dom 27/04 19h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Ferroviária",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Cuiabá 1 x 0 Ferroviária"
+        },
+        {
+          "partida": "Botafogo-SP x Goiás",
+          "data": "Seg 28/04 19h30",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Goiás",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Botafogo-SP 0 x 1 Goiás"
+        }
+      ]
+    },
+    {
+      "rodada": "6ª rodada",
+      "inicio": "02/05/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Ferroviária x Coritiba",
+          "data": "Sex 02/05 21h35",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Coritiba",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Ferroviária 2 x 1 Coritiba"
+        },
+        {
+          "partida": "Remo x Amazonas",
+          "data": "Sáb 03/05 16h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Remo 1 x 0 Amazonas"
+        },
+        {
+          "partida": "Volta Redonda x Paysandu",
+          "data": "Sáb 03/05 20h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Paysandu",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Volta Redonda 1 x 0 Paysandu"
+        },
+        {
+          "partida": "Atlético Goianiense x Novorizontino",
+          "data": "Dom 04/05 16h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Novorizontino",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 1 x 0 Novorizontino"
+        },
+        {
+          "partida": "Athletico-PR x Botafogo-SP",
+          "data": "Dom 04/05 18h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "1",
+          "gols_fora": "4",
+          "resultado_texto": "Athletico-PR 1 x 4 Botafogo-SP"
+        },
+        {
+          "partida": "Chapecoense x Criciúma",
+          "data": "Dom 04/05 18h30",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Criciúma",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Chapecoense 2 x 1 Criciúma"
+        },
+        {
+          "partida": "Operário PR x América-MG",
+          "data": "Dom 04/05 20h30",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "América-MG",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 1 x 0 América-MG"
+        },
+        {
+          "partida": "Goiás x Avaí",
+          "data": "Seg 05/05 19h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Avaí",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Goiás 2 x 1 Avaí"
+        },
+        {
+          "partida": "CRB x Cuiabá",
+          "data": "Ter 06/05 19h30",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Cuiabá",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "CRB 1 x 1 Cuiabá"
+        },
+        {
+          "partida": "Athletic Club x Vila Nova",
+          "data": "Ter 06/05 21h30",
+          "local": "Estádio Independência",
+          "time_casa": "Athletic Club",
+          "time_fora": "Vila Nova",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 0 x 1 Vila Nova"
+        }
+      ]
+    },
+    {
+      "rodada": "7ª rodada",
+      "inicio": "08/05/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletico-PR x Chapecoense",
+          "data": "Qui 08/05 21h35",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 1 x 1 Chapecoense"
+        },
+        {
+          "partida": "Avaí x Atlético Goianiense",
+          "data": "Sáb 10/05 16h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 0 x 0 Atlético Goianiense"
+        },
+        {
+          "partida": "Goiás x Coritiba",
+          "data": "Sáb 10/05 18h30",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Goiás 1 x 0 Coritiba"
+        },
+        {
+          "partida": "Criciúma x Volta Redonda",
+          "data": "Dom 11/05 16h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 0 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Cuiabá x Operário PR",
+          "data": "Dom 11/05 18h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "3",
+          "resultado_texto": "Cuiabá 2 x 3 Operário PR"
+        },
+        {
+          "partida": "Novorizontino x Ferroviária",
+          "data": "Dom 11/05 18h30",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Ferroviária",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Novorizontino 2 x 2 Ferroviária"
+        },
+        {
+          "partida": "Botafogo-SP x Athletic Club",
+          "data": "Seg 12/05 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Athletic Club",
+          "gols_casa": "0",
+          "gols_fora": "3",
+          "resultado_texto": "Botafogo-SP 0 x 3 Athletic Club"
+        },
+        {
+          "partida": "Amazonas x CRB",
+          "data": "Seg 12/05 21h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Amazonas 1 x 1 CRB"
+        },
+        {
+          "partida": "Remo x Vila Nova",
+          "data": "Qua 14/05 19h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Vila Nova",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Remo 2 x 0 Vila Nova"
+        },
+        {
+          "partida": "América-MG x Paysandu",
+          "data": "Qua 14/05 19h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Paysandu",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "América-MG 2 x 2 Paysandu"
+        }
+      ]
+    },
+    {
+      "rodada": "8ª rodada",
+      "inicio": "15/05/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Ferroviária x Avaí",
+          "data": "Qui 15/05 21h35",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Avaí",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Ferroviária 1 x 1 Avaí"
+        },
+        {
+          "partida": "Chapecoense x Cuiabá",
+          "data": "Sex 16/05 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Cuiabá",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Chapecoense 2 x 1 Cuiabá"
+        },
+        {
+          "partida": "Operário PR x Botafogo-SP",
+          "data": "Sáb 17/05 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Operário PR",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "3",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 3 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "Vila Nova x Athletico-PR",
+          "data": "Sáb 17/05 18h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Vila Nova 2 x 1 Athletico-PR"
+        },
+        {
+          "partida": "Athletic Club x Novorizontino",
+          "data": "Sáb 17/05 20h30",
+          "local": "Estádio Independência",
+          "time_casa": "Athletic Club",
+          "time_fora": "Novorizontino",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Athletic Club 0 x 2 Novorizontino"
+        },
+        {
+          "partida": "Atlético Goianiense x Remo",
+          "data": "Dom 18/05 16h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Atlético Goianiense 1 x 1 Remo"
+        },
+        {
+          "partida": "CRB x Criciúma",
+          "data": "Dom 18/05 16h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 1 x 0 Criciúma"
+        },
+        {
+          "partida": "Paysandu x Goiás",
+          "data": "Dom 18/05 18h30",
+          "local": "Mangueirão",
+          "time_casa": "Paysandu",
+          "time_fora": "Goiás",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Paysandu 0 x 0 Goiás"
+        },
+        {
+          "partida": "Volta Redonda x Amazonas",
+          "data": "Seg 19/05 19h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Volta Redonda 1 x 1 Amazonas"
+        },
+        {
+          "partida": "Coritiba x América-MG",
+          "data": "Seg 19/05 21h35",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "América-MG",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 1 x 0 América-MG"
+        }
+      ]
+    },
+    {
+      "rodada": "9ª rodada",
+      "inicio": "23/05/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Goiás x Ferroviária",
+          "data": "Sex 23/05 21h35",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Ferroviária",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Goiás 2 x 0 Ferroviária"
+        },
+        {
+          "partida": "Athletico-PR x Athletic Club",
+          "data": "Sáb 24/05 16h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Athletico-PR 1 x 0 Athletic Club"
+        },
+        {
+          "partida": "Remo x Volta Redonda",
+          "data": "Sáb 24/05 18h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 1 x 1 Volta Redonda"
+        },
+        {
+          "partida": "Avaí x Chapecoense",
+          "data": "Sáb 24/05 18h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Chapecoense",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Avaí 2 x 1 Chapecoense"
+        },
+        {
+          "partida": "Novorizontino x Paysandu",
+          "data": "Dom 25/05 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Paysandu",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 3 x 1 Paysandu"
+        },
+        {
+          "partida": "Amazonas x Operário PR",
+          "data": "Dom 25/05 18h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Amazonas 2 x 0 Operário PR"
+        },
+        {
+          "partida": "Criciúma x Coritiba",
+          "data": "Seg 26/05 19h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Coritiba",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Criciúma 0 x 1 Coritiba"
+        },
+        {
+          "partida": "Botafogo-SP x CRB",
+          "data": "Seg 26/05 20h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "CRB",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Botafogo-SP 2 x 1 CRB"
+        },
+        {
+          "partida": "Cuiabá x Vila Nova",
+          "data": "Seg 26/05 21h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Vila Nova",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Cuiabá 1 x 0 Vila Nova"
+        },
+        {
+          "partida": "América-MG x Atlético Goianiense",
+          "data": "Ter 27/05 19h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 2 x 1 Atlético Goianiense"
+        }
+      ]
+    },
+    {
+      "rodada": "10ª rodada",
+      "inicio": "29/05/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Ferroviária x Botafogo-SP",
+          "data": "Qui 29/05 21h35",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Ferroviária 1 x 1 Botafogo-SP"
+        },
+        {
+          "partida": "Vila Nova x Novorizontino",
+          "data": "Sex 30/05 19h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Novorizontino",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Vila Nova 0 x 1 Novorizontino"
+        },
+        {
+          "partida": "Coritiba x Avaí",
+          "data": "Sáb 31/05 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Avaí",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Coritiba 2 x 1 Avaí"
+        },
+        {
+          "partida": "Atlético Goianiense x Goiás",
+          "data": "Sáb 31/05 18h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Goiás",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Atlético Goianiense 1 x 2 Goiás"
+        },
+        {
+          "partida": "Athletic Club x Cuiabá",
+          "data": "Sáb 31/05 20h30",
+          "local": "Estádio Independência",
+          "time_casa": "Athletic Club",
+          "time_fora": "Cuiabá",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Athletic Club 0 x 2 Cuiabá"
+        },
+        {
+          "partida": "Operário PR x Athletico-PR",
+          "data": "Dom 01/06 16h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Operário PR 2 x 2 Athletico-PR"
+        },
+        {
+          "partida": "CRB x Remo",
+          "data": "Dom 01/06 18h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Remo",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 2 x 0 Remo"
+        },
+        {
+          "partida": "Volta Redonda x América-MG",
+          "data": "Dom 01/06 20h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "América-MG",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Volta Redonda 1 x 0 América-MG"
+        },
+        {
+          "partida": "Chapecoense x Amazonas",
+          "data": "Seg 02/06 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Amazonas",
+          "gols_casa": "4",
+          "gols_fora": "0",
+          "resultado_texto": "Chapecoense 4 x 0 Amazonas"
+        },
+        {
+          "partida": "Paysandu x Criciúma",
+          "data": "Seg 02/06 21h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Criciúma",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Paysandu 0 x 1 Criciúma"
+        }
+      ]
+    },
+    {
+      "rodada": "11ª rodada",
+      "inicio": "05/06/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Botafogo-SP x Coritiba",
+          "data": "Qui 05/06 18h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Coritiba",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Botafogo-SP 0 x 0 Coritiba"
+        },
+        {
+          "partida": "Novorizontino x Chapecoense",
+          "data": "Sex 06/06 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Novorizontino 1 x 0 Chapecoense"
+        },
+        {
+          "partida": "Cuiabá x Paysandu",
+          "data": "Sex 06/06 21h35",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Paysandu",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Cuiabá 1 x 0 Paysandu"
+        },
+        {
+          "partida": "América-MG x Ferroviária",
+          "data": "Sáb 07/06 16h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Ferroviária",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "América-MG 1 x 2 Ferroviária"
+        },
+        {
+          "partida": "Avaí x CRB",
+          "data": "Sáb 07/06 20h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 1 x 0 CRB"
+        },
+        {
+          "partida": "Goiás x Volta Redonda",
+          "data": "Dom 08/06 16h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Goiás 2 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Athletico-PR x Atlético Goianiense",
+          "data": "Dom 08/06 18h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 0 x 1 Atlético Goianiense"
+        },
+        {
+          "partida": "Remo x Operário PR",
+          "data": "Dom 08/06 19h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 2 x 1 Operário PR"
+        },
+        {
+          "partida": "Criciúma x Vila Nova",
+          "data": "Seg 09/06 19h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Vila Nova",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 1 x 0 Vila Nova"
+        },
+        {
+          "partida": "Amazonas x Athletic Club",
+          "data": "Seg 09/06 19h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Amazonas 1 x 0 Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "12ª rodada",
+      "inicio": "13/06/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Vila Nova x América-MG",
+          "data": "Sex 13/06 19h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "América-MG",
+          "gols_casa": "0",
+          "gols_fora": "3",
+          "resultado_texto": "Vila Nova 0 x 3 América-MG"
+        },
+        {
+          "partida": "Paysandu x Botafogo-SP",
+          "data": "Sex 13/06 21h35",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Paysandu 1 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "CRB x Goiás",
+          "data": "Sáb 14/06 16h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Goiás",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 2 x 0 Goiás"
+        },
+        {
+          "partida": "Athletico-PR x Remo",
+          "data": "Sáb 14/06 18h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Remo",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 2 x 1 Remo"
+        },
+        {
+          "partida": "Athletic Club x Operário PR",
+          "data": "Sáb 14/06 20h30",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 2 x 1 Operário PR"
+        },
+        {
+          "partida": "Atlético Goianiense x Coritiba",
+          "data": "Dom 15/06 16h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Coritiba",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 0 x 0 Coritiba"
+        },
+        {
+          "partida": "Novorizontino x Cuiabá",
+          "data": "Dom 15/06 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Cuiabá",
+          "gols_casa": "3",
+          "gols_fora": "0",
+          "resultado_texto": "Novorizontino 3 x 0 Cuiabá"
+        },
+        {
+          "partida": "Criciúma x Amazonas",
+          "data": "Dom 15/06 20h30",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Amazonas",
+          "gols_casa": "3",
+          "gols_fora": "2",
+          "resultado_texto": "Criciúma 3 x 2 Amazonas"
+        },
+        {
+          "partida": "Chapecoense x Ferroviária",
+          "data": "Seg 16/06 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Ferroviária",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Chapecoense 2 x 1 Ferroviária"
+        },
+        {
+          "partida": "Volta Redonda x Avaí",
+          "data": "Ter 17/06 19h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Avaí",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Volta Redonda 1 x 1 Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "13ª rodada",
+      "inicio": "20/06/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Botafogo-SP x Chapecoense",
+          "data": "Sex 20/06 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Botafogo-SP 1 x 0 Chapecoense"
+        },
+        {
+          "partida": "América-MG x Criciúma",
+          "data": "Sex 20/06 21h35",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 1 x 1 Criciúma"
+        },
+        {
+          "partida": "Avaí x Athletico-PR",
+          "data": "Sáb 21/06 16h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Avaí 1 x 2 Athletico-PR"
+        },
+        {
+          "partida": "Remo x Paysandu",
+          "data": "Sáb 21/06 18h30",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Paysandu",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 0 x 1 Paysandu"
+        },
+        {
+          "partida": "Ferroviária x CRB",
+          "data": "Sáb 21/06 20h30",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Ferroviária",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Ferroviária 1 x 0 CRB"
+        },
+        {
+          "partida": "Atlético Goianiense x Volta Redonda",
+          "data": "Dom 22/06 16h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 2 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Coritiba x Cuiabá",
+          "data": "Dom 22/06 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Cuiabá",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 2 x 0 Cuiabá"
+        },
+        {
+          "partida": "Amazonas x Vila Nova",
+          "data": "Dom 22/06 18h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Vila Nova",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Amazonas 2 x 1 Vila Nova"
+        },
+        {
+          "partida": "Operário PR x Novorizontino",
+          "data": "Seg 23/06 19h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Novorizontino",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 2 x 0 Novorizontino"
+        },
+        {
+          "partida": "Goiás x Athletic Club",
+          "data": "Seg 23/06 21h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Goiás 1 x 2 Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "14ª rodada",
+      "inicio": "26/06/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "CRB x América-MG",
+          "data": "Qui 26/06 21h35",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "América-MG",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "CRB 1 x 2 América-MG"
+        },
+        {
+          "partida": "Criciúma x Avaí",
+          "data": "Sex 27/06 20h30",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Avaí",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Criciúma 1 x 2 Avaí"
+        },
+        {
+          "partida": "Vila Nova x Atlético Goianiense",
+          "data": "Sáb 28/06 16h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 1 x 0 Atlético Goianiense"
+        },
+        {
+          "partida": "Athletico-PR x Coritiba",
+          "data": "Sáb 28/06 18h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Coritiba",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 0 x 1 Coritiba"
+        },
+        {
+          "partida": "Athletic Club x Remo",
+          "data": "Dom 29/06 16h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Athletic Club 1 x 2 Remo"
+        },
+        {
+          "partida": "Volta Redonda x Operário PR",
+          "data": "Dom 29/06 16h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Operário PR",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Volta Redonda 1 x 0 Operário PR"
+        },
+        {
+          "partida": "Chapecoense x Goiás",
+          "data": "Dom 29/06 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Goiás",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Chapecoense 1 x 2 Goiás"
+        },
+        {
+          "partida": "Novorizontino x Amazonas",
+          "data": "Dom 29/06 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 1 x 1 Amazonas"
+        },
+        {
+          "partida": "Paysandu x Ferroviária",
+          "data": "Seg 30/06 19h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Ferroviária",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Paysandu 2 x 1 Ferroviária"
+        },
+        {
+          "partida": "Cuiabá x Botafogo-SP",
+          "data": "Seg 30/06 21h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Cuiabá 0 x 1 Botafogo-SP"
+        }
+      ]
+    },
+    {
+      "rodada": "15ª rodada",
+      "inicio": "03/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Atlético Goianiense x CRB",
+          "data": "Qui 03/07 21h35",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "CRB",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Atlético Goianiense 2 x 1 CRB"
+        },
+        {
+          "partida": "Coritiba x Volta Redonda",
+          "data": "Sex 04/07 19h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 2 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Remo x Cuiabá",
+          "data": "Sáb 05/07 16h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Cuiabá",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Remo 0 x 0 Cuiabá"
+        },
+        {
+          "partida": "Avaí x Paysandu",
+          "data": "Sáb 05/07 19h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Paysandu",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 0 x 0 Paysandu"
+        },
+        {
+          "partida": "Amazonas x Athletico-PR",
+          "data": "Sáb 05/07 20h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Amazonas 0 x 1 Athletico-PR"
+        },
+        {
+          "partida": "Ferroviária x Vila Nova",
+          "data": "Dom 06/07 16h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Vila Nova",
+          "gols_casa": "1",
+          "gols_fora": "3",
+          "resultado_texto": "Ferroviária 1 x 3 Vila Nova"
+        },
+        {
+          "partida": "Botafogo-SP x Novorizontino",
+          "data": "Dom 06/07 18h30",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Novorizontino",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Botafogo-SP 0 x 0 Novorizontino"
+        },
+        {
+          "partida": "Operário PR x Chapecoense",
+          "data": "Seg 07/07 19h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Chapecoense",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Operário PR 1 x 2 Chapecoense"
+        },
+        {
+          "partida": "América-MG x Athletic Club",
+          "data": "Seg 07/07 21h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Athletic Club",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 0 x 1 Athletic Club"
+        },
+        {
+          "partida": "Goiás x Criciúma",
+          "data": "Ter 08/07 19h30",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Goiás 1 x 1 Criciúma"
+        }
+      ]
+    },
+    {
+      "rodada": "16ª rodada",
+      "inicio": "10/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "CRB x Coritiba",
+          "data": "Qui 10/07 21h35",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Coritiba",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "CRB 0 x 1 Coritiba"
+        },
+        {
+          "partida": "Vila Nova x Operário PR",
+          "data": "Sex 11/07 19h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Operário PR",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 0 x 0 Operário PR"
+        },
+        {
+          "partida": "Novorizontino x América-MG",
+          "data": "Sáb 12/07 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "América-MG",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 3 x 1 América-MG"
+        },
+        {
+          "partida": "Paysandu x Atlético Goianiense",
+          "data": "Sáb 12/07 18h30",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Paysandu 2 x 2 Atlético Goianiense"
+        },
+        {
+          "partida": "Athletico-PR x Goiás",
+          "data": "Sáb 12/07 20h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Goiás",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 0 x 1 Goiás"
+        },
+        {
+          "partida": "Criciúma x Ferroviária",
+          "data": "Dom 13/07 16h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Ferroviária",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Criciúma 2 x 1 Ferroviária"
+        },
+        {
+          "partida": "Chapecoense x Remo",
+          "data": "Dom 13/07 18h30",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Chapecoense 1 x 1 Remo"
+        },
+        {
+          "partida": "Athletic Club x Avaí",
+          "data": "Seg 14/07 19h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Avaí",
+          "gols_casa": "4",
+          "gols_fora": "0",
+          "resultado_texto": "Athletic Club 4 x 0 Avaí"
+        },
+        {
+          "partida": "Botafogo-SP x Volta Redonda",
+          "data": "Seg 14/07 21h30",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Botafogo-SP 0 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Cuiabá x Amazonas",
+          "data": "Ter 15/07 19h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Amazonas",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "Cuiabá 3 x 1 Amazonas"
+        }
+      ]
+    },
+    {
+      "rodada": "17ª rodada",
+      "inicio": "17/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Operário PR x CRB",
+          "data": "Qui 17/07 19h30",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "CRB",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Operário PR 1 x 1 CRB"
+        },
+        {
+          "partida": "Remo x Novorizontino",
+          "data": "Qui 17/07 21h35",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Novorizontino",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 1 x 1 Novorizontino"
+        },
+        {
+          "partida": "Atlético Goianiense x Criciúma",
+          "data": "Sex 18/07 19h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Criciúma",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Atlético Goianiense 0 x 1 Criciúma"
+        },
+        {
+          "partida": "Ferroviária x Athletic Club",
+          "data": "Sex 18/07 21h30",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Ferroviária 1 x 2 Athletic Club"
+        },
+        {
+          "partida": "Goiás x Cuiabá",
+          "data": "Sáb 19/07 16h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Cuiabá",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "Goiás 3 x 1 Cuiabá"
+        },
+        {
+          "partida": "Avaí x Vila Nova",
+          "data": "Sáb 19/07 18h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Vila Nova",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Avaí 1 x 1 Vila Nova"
+        },
+        {
+          "partida": "Coritiba x Paysandu",
+          "data": "Sáb 19/07 18h30",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Paysandu",
+          "gols_casa": "2",
+          "gols_fora": "5",
+          "resultado_texto": "Coritiba 2 x 5 Paysandu"
+        },
+        {
+          "partida": "Volta Redonda x Athletico-PR",
+          "data": "Sáb 19/07 20h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "3",
+          "gols_fora": "2",
+          "resultado_texto": "Volta Redonda 3 x 2 Athletico-PR"
+        },
+        {
+          "partida": "Amazonas x Botafogo-SP",
+          "data": "Dom 20/07 16h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "3",
+          "gols_fora": "0",
+          "resultado_texto": "Amazonas 3 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "América-MG x Chapecoense",
+          "data": "Dom 20/07 18h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Chapecoense",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 0 x 1 Chapecoense"
+        }
+      ]
+    },
+    {
+      "rodada": "18ª rodada",
+      "inicio": "22/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Operário PR x Atlético Goianiense",
+          "data": "Ter 22/07 19h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "3",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 3 x 0 Atlético Goianiense"
+        },
+        {
+          "partida": "Athletico-PR x Ferroviária",
+          "data": "Ter 22/07 20h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Ferroviária",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 1 x 1 Ferroviária"
+        },
+        {
+          "partida": "Athletic Club x Coritiba",
+          "data": "Ter 22/07 21h30",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 1 x 1 Coritiba"
+        },
+        {
+          "partida": "Vila Nova x CRB",
+          "data": "Ter 22/07 21h35",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "CRB",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 2 x 0 CRB"
+        },
+        {
+          "partida": "Chapecoense x Volta Redonda",
+          "data": "Qua 23/07 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "4",
+          "gols_fora": "2",
+          "resultado_texto": "Chapecoense 4 x 2 Volta Redonda"
+        },
+        {
+          "partida": "Novorizontino x Goiás",
+          "data": "Qua 23/07 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Goiás",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Novorizontino 1 x 0 Goiás"
+        },
+        {
+          "partida": "Amazonas x Paysandu",
+          "data": "Qua 23/07 21h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Paysandu",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Amazonas 1 x 1 Paysandu"
+        },
+        {
+          "partida": "Cuiabá x América-MG",
+          "data": "Qua 23/07 21h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "América-MG",
+          "gols_casa": "3",
+          "gols_fora": "1",
+          "resultado_texto": "Cuiabá 3 x 1 América-MG"
+        },
+        {
+          "partida": "Botafogo-SP x Criciúma",
+          "data": "Qui 24/07 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Criciúma",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Botafogo-SP 0 x 2 Criciúma"
+        },
+        {
+          "partida": "Remo x Avaí",
+          "data": "Qui 24/07 21h35",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Avaí",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 2 x 1 Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "19ª rodada",
+      "inicio": "26/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Ferroviária x Operário PR",
+          "data": "Sáb 26/07 18h30",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Operário PR",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Ferroviária 0 x 0 Operário PR"
+        },
+        {
+          "partida": "CRB x Novorizontino",
+          "data": "Sáb 26/07 20h30",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Novorizontino",
+          "gols_casa": "4",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 4 x 0 Novorizontino"
+        },
+        {
+          "partida": "Coritiba x Amazonas",
+          "data": "Dom 27/07 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Coritiba 1 x 1 Amazonas"
+        },
+        {
+          "partida": "Volta Redonda x Vila Nova",
+          "data": "Dom 27/07 16h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Vila Nova",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Volta Redonda 2 x 1 Vila Nova"
+        },
+        {
+          "partida": "América-MG x Athletico-PR",
+          "data": "Dom 27/07 18h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "América-MG 2 x 2 Athletico-PR"
+        },
+        {
+          "partida": "Atlético Goianiense x Chapecoense",
+          "data": "Dom 27/07 19h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Chapecoense",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 0 x 0 Chapecoense"
+        },
+        {
+          "partida": "Avaí x Botafogo-SP",
+          "data": "Seg 28/07 19h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "5",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 5 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "Paysandu x Athletic Club",
+          "data": "Seg 28/07 21h30",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Paysandu 1 x 1 Athletic Club"
+        },
+        {
+          "partida": "Criciúma x Cuiabá",
+          "data": "Ter 29/07 20h30",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Cuiabá",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 1 x 0 Cuiabá"
+        },
+        {
+          "partida": "Goiás x Remo",
+          "data": "Ter 29/07 21h35",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Remo",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Goiás 1 x 1 Remo"
+        }
+      ]
+    },
+    {
+      "rodada": "20ª rodada",
+      "inicio": "31/07/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Vila Nova x Coritiba",
+          "data": "Qui 31/07 21h35",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Vila Nova 1 x 2 Coritiba"
+        },
+        {
+          "partida": "Remo x Ferroviária",
+          "data": "Sex 01/08 19h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Ferroviária",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Remo 0 x 2 Ferroviária"
+        },
+        {
+          "partida": "Operário PR x Criciúma",
+          "data": "Sex 01/08 21h30",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 1 x 0 Criciúma"
+        },
+        {
+          "partida": "Botafogo-SP x América-MG",
+          "data": "Sáb 02/08 18h30",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "América-MG",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Botafogo-SP 2 x 1 América-MG"
+        },
+        {
+          "partida": "Amazonas x Goiás",
+          "data": "Sáb 02/08 20h30",
+          "local": "Arena Amazonia",
+          "time_casa": "Amazonas",
+          "time_fora": "Goiás",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Amazonas 2 x 2 Goiás"
+        },
+        {
+          "partida": "Chapecoense x CRB",
+          "data": "Dom 03/08 16h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "CRB",
+          "gols_casa": "3",
+          "gols_fora": "2",
+          "resultado_texto": "Chapecoense 3 x 2 CRB"
+        },
+        {
+          "partida": "Novorizontino x Avaí",
+          "data": "Dom 03/08 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Avaí",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 1 x 1 Avaí"
+        },
+        {
+          "partida": "Athletico-PR x Paysandu",
+          "data": "Dom 03/08 18h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Paysandu",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 1 x 1 Paysandu"
+        },
+        {
+          "partida": "Athletic Club x Atlético Goianiense",
+          "data": "Seg 04/08 19h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 1 x 1 Atlético Goianiense"
+        },
+        {
+          "partida": "Cuiabá x Volta Redonda",
+          "data": "Seg 04/08 21h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Cuiabá 2 x 0 Volta Redonda"
+        }
+      ]
+    },
+    {
+      "rodada": "21ª rodada",
+      "inicio": "08/08/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Ferroviária x Amazonas",
+          "data": "Sex 08/08 19h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Amazonas",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Ferroviária 2 x 1 Amazonas"
+        },
+        {
+          "partida": "Coritiba x Chapecoense",
+          "data": "Sex 08/08 21h35",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Chapecoense",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 0 x 0 Chapecoense"
+        },
+        {
+          "partida": "América-MG x Remo",
+          "data": "Sáb 09/08 16h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Remo",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 0 x 1 Remo"
+        },
+        {
+          "partida": "Goiás x Operário PR",
+          "data": "Sáb 09/08 18h30",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Operário PR",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Goiás 2 x 1 Operário PR"
+        },
+        {
+          "partida": "Volta Redonda x Novorizontino",
+          "data": "Sáb 09/08 20h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Novorizontino",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Volta Redonda 0 x 0 Novorizontino"
+        },
+        {
+          "partida": "Avaí x Cuiabá",
+          "data": "Dom 10/08 16h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Cuiabá",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Avaí 2 x 0 Cuiabá"
+        },
+        {
+          "partida": "Atlético Goianiense x Botafogo-SP",
+          "data": "Dom 10/08 18h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 2 x 0 Botafogo-SP"
+        },
+        {
+          "partida": "Criciúma x Athletico-PR",
+          "data": "Seg 11/08 19h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "4",
+          "gols_fora": "2",
+          "resultado_texto": "Criciúma 4 x 2 Athletico-PR"
+        },
+        {
+          "partida": "Paysandu x Vila Nova",
+          "data": "Seg 11/08 21h30",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Vila Nova",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Paysandu 0 x 1 Vila Nova"
+        },
+        {
+          "partida": "CRB x Athletic Club",
+          "data": "Ter 12/08 19h30",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Athletic Club",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 1 x 0 Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "22ª rodada",
+      "inicio": "14/08/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Novorizontino x Coritiba",
+          "data": "Qui 14/08 21h35",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Novorizontino 1 x 2 Coritiba"
+        },
+        {
+          "partida": "Amazonas x América-MG",
+          "data": "Sex 15/08 20h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "América-MG",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Amazonas 2 x 2 América-MG"
+        },
+        {
+          "partida": "Remo x Botafogo-SP",
+          "data": "Sáb 16/08 16h00",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 1 x 1 Botafogo-SP"
+        },
+        {
+          "partida": "Vila Nova x Goiás",
+          "data": "Sáb 16/08 18h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Goiás",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Vila Nova 2 x 0 Goiás"
+        },
+        {
+          "partida": "Athletico-PR x Cuiabá",
+          "data": "Sáb 16/08 20h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Cuiabá",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 1 x 1 Cuiabá"
+        },
+        {
+          "partida": "Chapecoense x Paysandu",
+          "data": "Dom 17/08 16h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Paysandu",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Chapecoense 2 x 0 Paysandu"
+        },
+        {
+          "partida": "Atlético Goianiense x Ferroviária",
+          "data": "Dom 17/08 18h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Ferroviária",
+          "gols_casa": "1",
+          "gols_fora": "3",
+          "resultado_texto": "Atlético Goianiense 1 x 3 Ferroviária"
+        },
+        {
+          "partida": "Volta Redonda x CRB",
+          "data": "Seg 18/08 19h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "CRB",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Volta Redonda 0 x 1 CRB"
+        },
+        {
+          "partida": "Athletic Club x Criciúma",
+          "data": "Seg 18/08 21h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Criciúma",
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Athletic Club 1 x 1 Criciúma"
+        },
+        {
+          "partida": "Operário PR x Avaí",
+          "data": "Ter 19/08 19h30",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Avaí",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 0 x 0 Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "23ª rodada",
+      "inicio": "22/08/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletic Club x Chapecoense",
+          "data": "Sex 22/08 19h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Chapecoense",
+          "gols_casa": "0",
+          "gols_fora": "4",
+          "resultado_texto": "Athletic Club 0 x 4 Chapecoense"
+        },
+        {
+          "partida": "Criciúma x Novorizontino",
+          "data": "Sex 22/08 21h35",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Novorizontino",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 2 x 0 Novorizontino"
+        },
+        {
+          "partida": "Coritiba x Remo",
+          "data": "Sáb 23/08 16h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Remo",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 0 x 0 Remo"
+        },
+        {
+          "partida": "Goiás x América-MG",
+          "data": "Sáb 23/08 18h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "América-MG",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Goiás 1 x 0 América-MG"
+        },
+        {
+          "partida": "CRB x Athletico-PR",
+          "data": "Sáb 23/08 20h30",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "CRB 0 x 1 Athletico-PR"
+        },
+        {
+          "partida": "Paysandu x Operário PR",
+          "data": "Dom 24/08 16h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Operário PR",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Paysandu 1 x 2 Operário PR"
+        },
+        {
+          "partida": "Ferroviária x Volta Redonda",
+          "data": "Dom 24/08 18h30",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "0",
+          "gols_fora": "0",
+          "resultado_texto": "Ferroviária 0 x 0 Volta Redonda"
+        },
+        {
+          "partida": "Cuiabá x Atlético Goianiense",
+          "data": "Dom 24/08 20h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Cuiabá 2 x 2 Atlético Goianiense"
+        },
+        {
+          "partida": "Botafogo-SP x Vila Nova",
+          "data": "Seg 25/08 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Vila Nova",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Botafogo-SP 2 x 0 Vila Nova"
+        },
+        {
+          "partida": "Avaí x Amazonas",
+          "data": "Seg 25/08 21h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Amazonas",
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Avaí 1 x 2 Amazonas"
+        }
+      ]
+    },
+    {
+      "rodada": "24ª rodada",
+      "inicio": "28/08/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Remo x Criciúma",
+          "data": "Qui 28/08 21h35",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Criciúma",
+          "gols_casa": "0",
+          "gols_fora": "1",
+          "resultado_texto": "Remo 0 x 1 Criciúma"
+        },
+        {
+          "partida": "Operário PR x Coritiba",
+          "data": "Sex 29/08 19h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Coritiba",
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Operário PR 1 x 0 Coritiba"
+        },
+        {
+          "partida": "CRB x Paysandu",
+          "data": "Sáb 30/08 16h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Paysandu",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "CRB 2 x 0 Paysandu"
+        },
+        {
+          "partida": "Goiás x Botafogo-SP",
+          "data": "Sáb 30/08 18h30",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "2",
+          "gols_fora": "3",
+          "resultado_texto": "Goiás 2 x 3 Botafogo-SP"
+        },
+        {
+          "partida": "Athletico-PR x Novorizontino",
+          "data": "Sáb 30/08 20h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Novorizontino",
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Athletico-PR 2 x 1 Novorizontino"
+        },
+        {
+          "partida": "Atlético Goianiense x Amazonas",
+          "data": "Dom 31/08 16h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Amazonas",
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Atlético Goianiense 2 x 0 Amazonas"
+        },
+        {
+          "partida": "Volta Redonda x Athletic Club",
+          "data": "Dom 31/08 18h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Athletic Club",
+          "gols_casa": "0",
+          "gols_fora": "2",
+          "resultado_texto": "Volta Redonda 0 x 2 Athletic Club"
+        },
+        {
+          "partida": "Chapecoense x Vila Nova",
+          "data": "Seg 01/09 19h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Vila Nova"
+        },
+        {
+          "partida": "Ferroviária x Cuiabá",
+          "data": "Seg 01/09 21h30",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Cuiabá"
+        },
+        {
+          "partida": "América-MG x Avaí",
+          "data": "Ter 02/09 19h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "25ª rodada",
+      "inicio": "05/09/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Amazonas x Remo",
+          "data": "Sex 05/09 17h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Remo"
+        },
+        {
+          "partida": "Paysandu x Volta Redonda",
+          "data": "Sex 05/09 19h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Volta Redonda"
+        },
+        {
+          "partida": "Coritiba x Ferroviária",
+          "data": "Sex 05/09 21h30",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Ferroviária"
+        },
+        {
+          "partida": "Botafogo-SP x Athletico-PR",
+          "data": "Sáb 06/09 16h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Athletico-PR"
+        },
+        {
+          "partida": "Criciúma x Chapecoense",
+          "data": "Dom 07/09 16h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  Chapecoense"
+        },
+        {
+          "partida": "América-MG x Operário PR",
+          "data": "Dom 07/09 18h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Operário PR"
+        },
+        {
+          "partida": "Avaí x Goiás",
+          "data": "Dom 07/09 20h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Goiás"
+        },
+        {
+          "partida": "Novorizontino x Atlético Goianiense",
+          "data": "Seg 08/09 19h30",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Cuiabá x CRB",
+          "data": "Seg 08/09 20h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  CRB"
+        },
+        {
+          "partida": "Vila Nova x Athletic Club",
+          "data": "Seg 08/09 21h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "26ª rodada",
+      "inicio": "12/09/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Volta Redonda x Criciúma",
+          "data": "Sex 12/09 19h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Criciúma"
+        },
+        {
+          "partida": "Coritiba x Goiás",
+          "data": "Sex 12/09 21h30",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Goiás"
+        },
+        {
+          "partida": "Paysandu x América-MG",
+          "data": "Sáb 13/09 16h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  América-MG"
+        },
+        {
+          "partida": "Vila Nova x Remo",
+          "data": "Sáb 13/09 18h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Remo"
+        },
+        {
+          "partida": "Operário PR x Cuiabá",
+          "data": "Dom 14/09 16h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Cuiabá"
+        },
+        {
+          "partida": "Athletic Club x Botafogo-SP",
+          "data": "Dom 14/09 18h30",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Botafogo-SP"
+        },
+        {
+          "partida": "Ferroviária x Novorizontino",
+          "data": "Seg 15/09 19h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Novorizontino"
+        },
+        {
+          "partida": "CRB x Amazonas",
+          "data": "Seg 15/09 21h30",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Amazonas"
+        },
+        {
+          "partida": "Atlético Goianiense x Avaí",
+          "data": "Ter 16/09 19h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  Avaí"
+        },
+        {
+          "partida": "Chapecoense x Athletico-PR",
+          "data": "Ter 16/09 21h35",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Athletico-PR"
+        }
+      ]
+    },
+    {
+      "rodada": "27ª rodada",
+      "inicio": "18/09/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Botafogo-SP x Operário PR",
+          "data": "Qui 18/09 19h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Operário PR"
+        },
+        {
+          "partida": "Novorizontino x Athletic Club",
+          "data": "Sex 19/09 19h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Athletic Club"
+        },
+        {
+          "partida": "Goiás x Paysandu",
+          "data": "Sáb 20/09 16h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  Paysandu"
+        },
+        {
+          "partida": "Amazonas x Volta Redonda",
+          "data": "Sáb 20/09 18h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Volta Redonda"
+        },
+        {
+          "partida": "Avaí x Ferroviária",
+          "data": "Sáb 20/09 18h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Ferroviária"
+        },
+        {
+          "partida": "Remo x Atlético Goianiense",
+          "data": "Sáb 20/09 20h30",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  Atlético Goianiense"
+        },
+        {
+          "partida": "América-MG x Coritiba",
+          "data": "Dom 21/09 16h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Coritiba"
+        },
+        {
+          "partida": "Criciúma x CRB",
+          "data": "Dom 21/09 16h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  CRB"
+        },
+        {
+          "partida": "Athletico-PR x Vila Nova",
+          "data": "Dom 21/09 19h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  Vila Nova"
+        },
+        {
+          "partida": "Cuiabá x Chapecoense",
+          "data": "Dom 21/09 20h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Chapecoense"
+        }
+      ]
+    },
+    {
+      "rodada": "28ª rodada",
+      "inicio": "23/09/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Paysandu x Novorizontino",
+          "data": "Ter 23/09 19h30",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Novorizontino"
+        },
+        {
+          "partida": "Ferroviária x Goiás",
+          "data": "Ter 23/09 21h35",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Goiás"
+        },
+        {
+          "partida": "Athletic Club x Athletico-PR",
+          "data": "Qua 24/09 19h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Athletico-PR"
+        },
+        {
+          "partida": "CRB x Botafogo-SP",
+          "data": "Qua 24/09 19h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Botafogo-SP"
+        },
+        {
+          "partida": "Vila Nova x Cuiabá",
+          "data": "Qua 24/09 19h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Cuiabá"
+        },
+        {
+          "partida": "Operário PR x Amazonas",
+          "data": "Qua 24/09 20h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Amazonas"
+        },
+        {
+          "partida": "Volta Redonda x Remo",
+          "data": "Qua 24/09 21h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Remo"
+        },
+        {
+          "partida": "Coritiba x Criciúma",
+          "data": "Qui 25/09 19h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Criciúma"
+        },
+        {
+          "partida": "Atlético Goianiense x América-MG",
+          "data": "Qui 25/09 21h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  América-MG"
+        },
+        {
+          "partida": "Chapecoense x Avaí",
+          "data": "Qui 25/09 21h35",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "29ª rodada",
+      "inicio": "27/09/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletico-PR x Operário PR",
+          "data": "Sáb 27/09 18h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  Operário PR"
+        },
+        {
+          "partida": "Cuiabá x Athletic Club",
+          "data": "Sáb 27/09 20h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Athletic Club"
+        },
+        {
+          "partida": "Criciúma x Paysandu",
+          "data": "Dom 28/09 16h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  Paysandu"
+        },
+        {
+          "partida": "Novorizontino x Vila Nova",
+          "data": "Dom 28/09 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Vila Nova"
+        },
+        {
+          "partida": "Botafogo-SP x Ferroviária",
+          "data": "Dom 28/09 18h30",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Ferroviária"
+        },
+        {
+          "partida": "Remo x CRB",
+          "data": "Dom 28/09 20h30",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  CRB"
+        },
+        {
+          "partida": "América-MG x Volta Redonda",
+          "data": "Seg 29/09 19h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Volta Redonda"
+        },
+        {
+          "partida": "Amazonas x Chapecoense",
+          "data": "Seg 29/09 21h30",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Chapecoense"
+        },
+        {
+          "partida": "Avaí x Coritiba",
+          "data": "Seg 29/09 21h30",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Coritiba"
+        },
+        {
+          "partida": "Goiás x Atlético Goianiense",
+          "data": "Ter 30/09 21h35",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  Atlético Goianiense"
+        }
+      ]
+    },
+    {
+      "rodada": "30ª rodada",
+      "inicio": "02/10/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Paysandu x Cuiabá",
+          "data": "Qui 02/10 19h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Cuiabá"
+        },
+        {
+          "partida": "Vila Nova x Criciúma",
+          "data": "Qui 02/10 21h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Criciúma"
+        },
+        {
+          "partida": "Athletic Club x Amazonas",
+          "data": "Sex 03/10 19h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Amazonas"
+        },
+        {
+          "partida": "Coritiba x Botafogo-SP",
+          "data": "Sex 03/10 21h30",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Botafogo-SP"
+        },
+        {
+          "partida": "CRB x Avaí",
+          "data": "Sex 03/10 21h35",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Avaí"
+        },
+        {
+          "partida": "Chapecoense x Novorizontino",
+          "data": "Sáb 04/10 16h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Novorizontino"
+        },
+        {
+          "partida": "Volta Redonda x Goiás",
+          "data": "Sáb 04/10 18h30",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Goiás"
+        },
+        {
+          "partida": "Ferroviária x América-MG",
+          "data": "Sáb 04/10 20h30",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  América-MG"
+        },
+        {
+          "partida": "Operário PR x Remo",
+          "data": "Dom 05/10 16h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Remo"
+        },
+        {
+          "partida": "Atlético Goianiense x Athletico-PR",
+          "data": "Dom 05/10 20h30",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  Athletico-PR"
+        }
+      ]
+    },
+    {
+      "rodada": "31ª rodada",
+      "inicio": "07/10/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Amazonas x Criciúma",
+          "data": "Ter 07/10 20h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Criciúma"
+        },
+        {
+          "partida": "Goiás x CRB",
+          "data": "Ter 07/10 21h30",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  CRB"
+        },
+        {
+          "partida": "Botafogo-SP x Paysandu",
+          "data": "Ter 07/10 21h35",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Paysandu"
+        },
+        {
+          "partida": "Cuiabá x Novorizontino",
+          "data": "Qua 08/10 19h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Novorizontino"
+        },
+        {
+          "partida": "Operário PR x Athletic Club",
+          "data": "Qua 08/10 19h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Athletic Club"
+        },
+        {
+          "partida": "Avaí x Volta Redonda",
+          "data": "Qua 08/10 21h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Volta Redonda"
+        },
+        {
+          "partida": "América-MG x Vila Nova",
+          "data": "Qua 08/10 21h30",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Vila Nova"
+        },
+        {
+          "partida": "Ferroviária x Chapecoense",
+          "data": "Qui 09/10 19h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Chapecoense"
+        },
+        {
+          "partida": "Coritiba x Atlético Goianiense",
+          "data": "Qui 09/10 19h30",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Remo x Athletico-PR",
+          "data": "Qui 09/10 21h35",
+          "local": "Mangueirão",
+          "time_casa": "Remo",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  Athletico-PR"
+        }
+      ]
+    },
+    {
+      "rodada": "32ª rodada",
+      "inicio": "11/10/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletic Club x Goiás",
+          "data": "Sáb 11/10 16h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Goiás"
+        },
+        {
+          "partida": "Vila Nova x Amazonas",
+          "data": "Sáb 11/10 18h30",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Amazonas"
+        },
+        {
+          "partida": "Novorizontino x Operário PR",
+          "data": "Dom 12/10 16h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Operário PR"
+        },
+        {
+          "partida": "Criciúma x América-MG",
+          "data": "Dom 12/10 18h30",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  América-MG"
+        },
+        {
+          "partida": "Cuiabá x Coritiba",
+          "data": "Dom 12/10 20h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Coritiba"
+        },
+        {
+          "partida": "CRB x Ferroviária",
+          "data": "Seg 13/10 19h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Ferroviária"
+        },
+        {
+          "partida": "Volta Redonda x Atlético Goianiense",
+          "data": "Seg 13/10 19h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Paysandu x Remo",
+          "data": "Seg 13/10 21h30",
+          "local": "Mangueirão",
+          "time_casa": "Paysandu",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Remo"
+        },
+        {
+          "partida": "Chapecoense x Botafogo-SP",
+          "data": "Ter 14/10 19h30",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Botafogo-SP"
+        },
+        {
+          "partida": "Athletico-PR x Avaí",
+          "data": "Ter 14/10 21h30",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "33ª rodada",
+      "inicio": "23/10/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Amazonas x Novorizontino",
+          "data": "Qui 23/10 20h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Novorizontino"
+        },
+        {
+          "partida": "América-MG x CRB",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  CRB"
+        },
+        {
+          "partida": "Atlético Goianiense x Vila Nova",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  Vila Nova"
+        },
+        {
+          "partida": "Avaí x Criciúma",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Criciúma"
+        },
+        {
+          "partida": "Botafogo-SP x Cuiabá",
+          "data": "Qui 23/10 20h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Cuiabá"
+        },
+        {
+          "partida": "Coritiba x Athletico-PR",
+          "data": "Qui 23/10 20h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Athletico-PR"
+        },
+        {
+          "partida": "Ferroviária x Paysandu",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Paysandu"
+        },
+        {
+          "partida": "Goiás x Chapecoense",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  Chapecoense"
+        },
+        {
+          "partida": "Operário PR x Volta Redonda",
+          "data": "Qui 23/10 20h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Volta Redonda"
+        },
+        {
+          "partida": "Remo x Athletic Club",
+          "data": "Qui 23/10 20h00",
+          "local": "Estádio Evandro Almeida (Baenão)",
+          "time_casa": "Remo",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  Athletic Club"
+        }
+      ]
+    },
+    {
+      "rodada": "34ª rodada",
+      "inicio": "30/10/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletic Club x América-MG",
+          "data": "Qui 30/10 21h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  América-MG"
+        },
+        {
+          "partida": "Athletico-PR x Amazonas",
+          "data": "Qui 30/10 21h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  Amazonas"
+        },
+        {
+          "partida": "CRB x Atlético Goianiense",
+          "data": "Qui 30/10 21h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Chapecoense x Operário PR",
+          "data": "Qui 30/10 21h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Operário PR"
+        },
+        {
+          "partida": "Criciúma x Goiás",
+          "data": "Qui 30/10 21h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  Goiás"
+        },
+        {
+          "partida": "Cuiabá x Remo",
+          "data": "Qui 30/10 21h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Remo"
+        },
+        {
+          "partida": "Novorizontino x Botafogo-SP",
+          "data": "Qui 30/10 21h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Botafogo-SP"
+        },
+        {
+          "partida": "Paysandu x Avaí",
+          "data": "Qui 30/10 21h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Avaí"
+        },
+        {
+          "partida": "Vila Nova x Ferroviária",
+          "data": "Qui 30/10 21h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Ferroviária"
+        },
+        {
+          "partida": "Volta Redonda x Coritiba",
+          "data": "Qui 30/10 21h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Coritiba"
+        }
+      ]
+    },
+    {
+      "rodada": "35ª rodada",
+      "inicio": "03/11/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Amazonas x Cuiabá",
+          "data": "Seg 03/11 21h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Cuiabá"
+        },
+        {
+          "partida": "América-MG x Novorizontino",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Novorizontino"
+        },
+        {
+          "partida": "Atlético Goianiense x Paysandu",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  Paysandu"
+        },
+        {
+          "partida": "Avaí x Athletic Club",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Athletic Club"
+        },
+        {
+          "partida": "Coritiba x CRB",
+          "data": "Seg 03/11 21h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  CRB"
+        },
+        {
+          "partida": "Ferroviária x Criciúma",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Criciúma"
+        },
+        {
+          "partida": "Goiás x Athletico-PR",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  Athletico-PR"
+        },
+        {
+          "partida": "Operário PR x Vila Nova",
+          "data": "Seg 03/11 21h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Vila Nova"
+        },
+        {
+          "partida": "Remo x Chapecoense",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio Evandro Almeida (Baenão)",
+          "time_casa": "Remo",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  Chapecoense"
+        },
+        {
+          "partida": "Volta Redonda x Botafogo-SP",
+          "data": "Seg 03/11 21h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Botafogo-SP"
+        }
+      ]
+    },
+    {
+      "rodada": "36ª rodada",
+      "inicio": "06/11/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Athletic Club x Ferroviária",
+          "data": "Qui 06/11 21h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Ferroviária"
+        },
+        {
+          "partida": "Athletico-PR x Volta Redonda",
+          "data": "Qui 06/11 21h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  Volta Redonda"
+        },
+        {
+          "partida": "Botafogo-SP x Amazonas",
+          "data": "Qui 06/11 21h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Amazonas"
+        },
+        {
+          "partida": "CRB x Operário PR",
+          "data": "Qui 06/11 21h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Operário PR"
+        },
+        {
+          "partida": "Chapecoense x América-MG",
+          "data": "Qui 06/11 21h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  América-MG"
+        },
+        {
+          "partida": "Criciúma x Atlético Goianiense",
+          "data": "Qui 06/11 21h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Cuiabá x Goiás",
+          "data": "Qui 06/11 21h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Goiás"
+        },
+        {
+          "partida": "Novorizontino x Remo",
+          "data": "Qui 06/11 21h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  Remo"
+        },
+        {
+          "partida": "Paysandu x Coritiba",
+          "data": "Qui 06/11 21h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Coritiba"
+        },
+        {
+          "partida": "Vila Nova x Avaí",
+          "data": "Qui 06/11 21h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Avaí"
+        }
+      ]
+    },
+    {
+      "rodada": "37ª rodada",
+      "inicio": "13/11/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "América-MG x Cuiabá",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio Independência",
+          "time_casa": "América-MG",
+          "time_fora": "Cuiabá",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "América-MG  x  Cuiabá"
+        },
+        {
+          "partida": "Atlético Goianiense x Operário PR",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio Antônio Accioly",
+          "time_casa": "Atlético Goianiense",
+          "time_fora": "Operário PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Atlético Goianiense  x  Operário PR"
+        },
+        {
+          "partida": "Avaí x Remo",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio da Ressacada",
+          "time_casa": "Avaí",
+          "time_fora": "Remo",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Avaí  x  Remo"
+        },
+        {
+          "partida": "CRB x Vila Nova",
+          "data": "Qui 13/11 21h00",
+          "local": "Estadio Rei Pelé",
+          "time_casa": "CRB",
+          "time_fora": "Vila Nova",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "CRB  x  Vila Nova"
+        },
+        {
+          "partida": "Coritiba x Athletic Club",
+          "data": "Qui 13/11 21h00",
+          "local": "Couto Pereira",
+          "time_casa": "Coritiba",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Coritiba  x  Athletic Club"
+        },
+        {
+          "partida": "Criciúma x Botafogo-SP",
+          "data": "Qui 13/11 21h00",
+          "local": "Heriberto Hülse",
+          "time_casa": "Criciúma",
+          "time_fora": "Botafogo-SP",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Criciúma  x  Botafogo-SP"
+        },
+        {
+          "partida": "Ferroviária x Athletico-PR",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio Fonte Luminosa",
+          "time_casa": "Ferroviária",
+          "time_fora": "Athletico-PR",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Ferroviária  x  Athletico-PR"
+        },
+        {
+          "partida": "Goiás x Novorizontino",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio de Hailé Pinheiro",
+          "time_casa": "Goiás",
+          "time_fora": "Novorizontino",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Goiás  x  Novorizontino"
+        },
+        {
+          "partida": "Paysandu x Amazonas",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio Leônidas Sodré de Castro",
+          "time_casa": "Paysandu",
+          "time_fora": "Amazonas",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Paysandu  x  Amazonas"
+        },
+        {
+          "partida": "Volta Redonda x Chapecoense",
+          "data": "Qui 13/11 21h00",
+          "local": "Estádio Raulino de Oliveira",
+          "time_casa": "Volta Redonda",
+          "time_fora": "Chapecoense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Volta Redonda  x  Chapecoense"
+        }
+      ]
+    },
+    {
+      "rodada": "38ª rodada",
+      "inicio": "21/11/2025",
+      "rodada_atual": true,
+      "partidas": [
+        {
+          "partida": "Amazonas x Coritiba",
+          "data": "Sex 21/11 21h00",
+          "local": "Municipal Carlos Zamith",
+          "time_casa": "Amazonas",
+          "time_fora": "Coritiba",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Amazonas  x  Coritiba"
+        },
+        {
+          "partida": "Athletic Club x Paysandu",
+          "data": "Sex 21/11 21h00",
+          "local": "Estádio Joaquim Portugal",
+          "time_casa": "Athletic Club",
+          "time_fora": "Paysandu",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletic Club  x  Paysandu"
+        },
+        {
+          "partida": "Athletico-PR x América-MG",
+          "data": "Sex 21/11 21h00",
+          "local": "Ligga Arena",
+          "time_casa": "Athletico-PR",
+          "time_fora": "América-MG",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Athletico-PR  x  América-MG"
+        },
+        {
+          "partida": "Botafogo-SP x Avaí",
+          "data": "Sex 21/11 21h00",
+          "local": "Arena Nicnet",
+          "time_casa": "Botafogo-SP",
+          "time_fora": "Avaí",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Botafogo-SP  x  Avaí"
+        },
+        {
+          "partida": "Chapecoense x Atlético Goianiense",
+          "data": "Sex 21/11 21h00",
+          "local": "Arena Condá",
+          "time_casa": "Chapecoense",
+          "time_fora": "Atlético Goianiense",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Chapecoense  x  Atlético Goianiense"
+        },
+        {
+          "partida": "Cuiabá x Criciúma",
+          "data": "Sex 21/11 21h00",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Criciúma",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Criciúma"
+        },
+        {
+          "partida": "Novorizontino x CRB",
+          "data": "Sex 21/11 21h00",
+          "local": "Estádio Dr. Jorge Ismael de Biasi",
+          "time_casa": "Novorizontino",
+          "time_fora": "CRB",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Novorizontino  x  CRB"
+        },
+        {
+          "partida": "Operário PR x Ferroviária",
+          "data": "Sex 21/11 21h00",
+          "local": "Germano Krüger",
+          "time_casa": "Operário PR",
+          "time_fora": "Ferroviária",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Operário PR  x  Ferroviária"
+        },
+        {
+          "partida": "Remo x Goiás",
+          "data": "Sex 21/11 21h00",
+          "local": "Estádio Evandro Almeida (Baenão)",
+          "time_casa": "Remo",
+          "time_fora": "Goiás",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Remo  x  Goiás"
+        },
+        {
+          "partida": "Vila Nova x Volta Redonda",
+          "data": "Sex 21/11 21h00",
+          "local": "Onésio Brasileiro Alvarenga",
+          "time_casa": "Vila Nova",
+          "time_fora": "Volta Redonda",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Vila Nova  x  Volta Redonda"
+        }
+      ]
+    }
+  ]
+}
