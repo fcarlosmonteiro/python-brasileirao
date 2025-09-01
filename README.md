@@ -2,6 +2,12 @@
 
 Versão Python do projeto Brasileirão - Scraper para obter dados da tabela e das rodadas do Brasileirão Série A e B.
 
+> **📋 Baseado no projeto original:** [@victorsouzaleal/brasileirao](https://github.com/victorsouzaleal/brasileirao) - Versão TypeScript/JavaScript
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
+[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/fcarlosmonteiro/python-brasileirao)
+
 ## 🚀 Instalação
 
 ### Pré-requisitos
@@ -169,5 +175,25 @@ python-brasileirao/
 ├── tests/                   # Testes unitários (futuro)
 ├── docs/                    # Documentação (futuro)
 ├── requirements.txt         # Dependências Python
+├── LICENSE                  # Licença MIT
 └── README.md                # Este arquivo
 ```
+
+## 📋 Créditos e Licença
+
+### 🤝 **Projeto Original**
+Este projeto é uma versão Python do [@victorsouzaleal/brasileirao](https://github.com/victorsouzaleal/brasileirao), desenvolvido em TypeScript/JavaScript.
+
+**Características do projeto original:**
+- ✅ **4 stars** e **3 forks** no GitHub
+- ✅ **Licença MIT** - Software livre e open source
+- ✅ **API compatível** - Mesma estrutura de dados
+- ✅ **Funcionalidades completas** - Tabela e rodadas das Séries A e B
+
+### 📄 **Licença**
+Este projeto está licenciado sob a **Licença MIT** - veja o arquivo [LICENSE](LICENSE) para detalhes.
+
+### 🙏 **Agradecimentos**
+- **@victorsouzaleal** - Pelo projeto original em TypeScript
+- **Comunidade open source** - Pela inspiração e colaboração
+- **Contribuidores** - Por tornarem este projeto possível

@@ -10,6 +10,8 @@ from .src.utils import JSONUtils, DataConverter, FormatUtils
 
 __version__ = "2.0.0"
 __author__ = "Brasileirão Python Team"
+__license__ = "MIT"
+__url__ = "https://github.com/fcarlosmonteiro/python-brasileirao"
 
 __all__ = [
     # Classe principal
