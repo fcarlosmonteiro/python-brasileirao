@@ -152,12 +152,9 @@ python-brasileirao/
 ├── dataset/                 # Estrutura para dados
 │   ├── serie_a/             # Dados específicos da Série A
 │   ├── serie_b/             # Dados específicos da Série B
-│   ├── exemplos/            # Exemplos de dados coletados
 │   ├── dados_coletados/     # Dados coletados por data
 │   ├── README.md            # Documentação da pasta dataset
 │   └── .gitignore           # Arquivos a serem ignorados
-├── tests/                   # Testes unitários (futuro)
-├── docs/                    # Documentação (futuro)
 ├── requirements.txt         # Dependências Python
 ├── LICENSE                  # Licença MIT
 └── README.md                # Este arquivo
