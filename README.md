@@ -104,14 +104,6 @@ dados_b = obter_dados_brasileirao_b(rodadas=False)
 }
 ```
 
-## 🧪 Testando
-
-Execute o arquivo de exemplo para testar a biblioteca:
-
-```bash
-python exemplo_uso.py
-```
-
 ## 📊 Dataset e Coleta de Dados
 
 ### Coleta Automática
@@ -147,15 +139,7 @@ Cada arquivo contém tabela de classificação e rodadas completas.
 
 - ✅ **Série A**: Tabela e rodadas completas
 - ✅ **Série B**: Tabela e rodadas completas
-- ✅ **User-Agent rotativo**: Evita bloqueios
-- ✅ **Tratamento de erros**: Respostas consistentes
 - ✅ **Exportação JSON**: Salva dados em arquivos
-- ✅ **API compatível**: Mesma interface do projeto original
-- ✅ **Arquitetura modular**: Código organizado e responsabilidades separadas
-- ✅ **Context manager**: Gerenciamento automático de recursos
-- ✅ **Type hints**: Melhor documentação e IDE support
-- ✅ **Dataset organizado**: Estrutura para coleta e armazenamento de dados
-- ✅ **Scripts de automação**: Coleta automática com organização por data
 
 ## 📁 Estrutura do Projeto
 
@@ -175,7 +159,6 @@ python-brasileirao/
 ├── scripts/                 # Scripts de automação
 │   ├── coletar_dados.py     # Script principal de coleta
 │   ├── coletar_serie_b.py   # Script específico da Série B
-│   └── ativar_venv.sh       # Script para ativar ambiente virtual
 ├── dataset/                 # Estrutura para dados
 │   ├── serie_a/             # Dados específicos da Série A
 │   ├── serie_b/             # Dados específicos da Série B
@@ -186,15 +169,5 @@ python-brasileirao/
 ├── tests/                   # Testes unitários (futuro)
 ├── docs/                    # Documentação (futuro)
 ├── requirements.txt         # Dependências Python
-├── exemplo_uso.py           # Exemplos de uso da biblioteca
 └── README.md                # Este arquivo
-```
-
-## 🚨 Tratamento de Erros
-
-Em caso de erro, a biblioteca retorna:
-```python
-{
-    'erro': 'Mensagem de erro detalhada'
-}
 ```
