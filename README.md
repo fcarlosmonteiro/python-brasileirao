@@ -1,8 +1,6 @@
 # ⚽ Brasileirão Python ⚽
 
-Versão Python do projeto Brasileirão - Scraper para obter dados da tabela e das rodadas do Brasileirão Série A e B.
-
-> **📋 Baseado no projeto original:** [@victorsouzaleal/brasileirao](https://github.com/victorsouzaleal/brasileirao) - Versão TypeScript/JavaScript
+Scraper para obter dados da tabela e das rodadas do Brasileirão Série A e B.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
