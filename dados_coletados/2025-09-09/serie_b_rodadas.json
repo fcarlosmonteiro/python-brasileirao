@@ -2542,9 +2542,9 @@
           "local": "Arena Condá",
           "time_casa": "Chapecoense",
           "time_fora": "Vila Nova",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Chapecoense  x  Vila Nova"
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Chapecoense 2 x 2 Vila Nova"
         },
         {
           "partida": "Ferroviária x Cuiabá",
@@ -2552,9 +2552,9 @@
           "local": "Estádio Fonte Luminosa",
           "time_casa": "Ferroviária",
           "time_fora": "Cuiabá",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Ferroviária  x  Cuiabá"
+          "gols_casa": "2",
+          "gols_fora": "2",
+          "resultado_texto": "Ferroviária 2 x 2 Cuiabá"
         },
         {
           "partida": "América-MG x Avaí",
@@ -2562,9 +2562,9 @@
           "local": "Estádio Independência",
           "time_casa": "América-MG",
           "time_fora": "Avaí",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "América-MG  x  Avaí"
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "América-MG 2 x 0 Avaí"
         }
       ]
     },
@@ -2579,19 +2579,19 @@
           "local": "Municipal Carlos Zamith",
           "time_casa": "Amazonas",
           "time_fora": "Remo",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Amazonas  x  Remo"
+          "gols_casa": "1",
+          "gols_fora": "3",
+          "resultado_texto": "Amazonas 1 x 3 Remo"
         },
         {
           "partida": "Paysandu x Volta Redonda",
           "data": "Sex 05/09 19h00",
-          "local": "Estádio Leônidas Sodré de Castro",
+          "local": "Mangueirão",
           "time_casa": "Paysandu",
           "time_fora": "Volta Redonda",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Paysandu  x  Volta Redonda"
+          "gols_casa": "1",
+          "gols_fora": "2",
+          "resultado_texto": "Paysandu 1 x 2 Volta Redonda"
         },
         {
           "partida": "Coritiba x Ferroviária",
@@ -2599,9 +2599,9 @@
           "local": "Couto Pereira",
           "time_casa": "Coritiba",
           "time_fora": "Ferroviária",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Coritiba  x  Ferroviária"
+          "gols_casa": "4",
+          "gols_fora": "0",
+          "resultado_texto": "Coritiba 4 x 0 Ferroviária"
         },
         {
           "partida": "Botafogo-SP x Athletico-PR",
@@ -2609,9 +2609,9 @@
           "local": "Arena Nicnet",
           "time_casa": "Botafogo-SP",
           "time_fora": "Athletico-PR",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Botafogo-SP  x  Athletico-PR"
+          "gols_casa": "1",
+          "gols_fora": "3",
+          "resultado_texto": "Botafogo-SP 1 x 3 Athletico-PR"
         },
         {
           "partida": "Criciúma x Chapecoense",
@@ -2619,9 +2619,9 @@
           "local": "Heriberto Hülse",
           "time_casa": "Criciúma",
           "time_fora": "Chapecoense",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Criciúma  x  Chapecoense"
+          "gols_casa": "2",
+          "gols_fora": "0",
+          "resultado_texto": "Criciúma 2 x 0 Chapecoense"
         },
         {
           "partida": "América-MG x Operário PR",
@@ -2629,9 +2629,9 @@
           "local": "Estádio Independência",
           "time_casa": "América-MG",
           "time_fora": "Operário PR",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "América-MG  x  Operário PR"
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "América-MG 1 x 1 Operário PR"
         },
         {
           "partida": "Avaí x Goiás",
@@ -2639,9 +2639,9 @@
           "local": "Estádio da Ressacada",
           "time_casa": "Avaí",
           "time_fora": "Goiás",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Avaí  x  Goiás"
+          "gols_casa": "2",
+          "gols_fora": "1",
+          "resultado_texto": "Avaí 2 x 1 Goiás"
         },
         {
           "partida": "Novorizontino x Atlético Goianiense",
@@ -2649,9 +2649,9 @@
           "local": "Estádio Dr. Jorge Ismael de Biasi",
           "time_casa": "Novorizontino",
           "time_fora": "Atlético Goianiense",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Novorizontino  x  Atlético Goianiense"
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Novorizontino 1 x 1 Atlético Goianiense"
         },
         {
           "partida": "Cuiabá x CRB",
@@ -2659,9 +2659,9 @@
           "local": "Arena Pantanal",
           "time_casa": "Cuiabá",
           "time_fora": "CRB",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Cuiabá  x  CRB"
+          "gols_casa": "1",
+          "gols_fora": "0",
+          "resultado_texto": "Cuiabá 1 x 0 CRB"
         },
         {
           "partida": "Vila Nova x Athletic Club",
@@ -2669,9 +2669,9 @@
           "local": "Onésio Brasileiro Alvarenga",
           "time_casa": "Vila Nova",
           "time_fora": "Athletic Club",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Vila Nova  x  Athletic Club"
+          "gols_casa": "1",
+          "gols_fora": "1",
+          "resultado_texto": "Vila Nova 1 x 1 Athletic Club"
         }
       ]
     },
@@ -3003,23 +3003,13 @@
       "partidas": [
         {
           "partida": "Athletico-PR x Operário PR",
-          "data": "Sáb 27/09 18h30",
+          "data": "Sáb 27/09 20h30",
           "local": "Ligga Arena",
           "time_casa": "Athletico-PR",
           "time_fora": "Operário PR",
           "gols_casa": "",
           "gols_fora": "",
           "resultado_texto": "Athletico-PR  x  Operário PR"
-        },
-        {
-          "partida": "Cuiabá x Athletic Club",
-          "data": "Sáb 27/09 20h30",
-          "local": "Arena Pantanal",
-          "time_casa": "Cuiabá",
-          "time_fora": "Athletic Club",
-          "gols_casa": "",
-          "gols_fora": "",
-          "resultado_texto": "Cuiabá  x  Athletic Club"
         },
         {
           "partida": "Criciúma x Paysandu",
@@ -3050,6 +3040,16 @@
           "gols_casa": "",
           "gols_fora": "",
           "resultado_texto": "Botafogo-SP  x  Ferroviária"
+        },
+        {
+          "partida": "Cuiabá x Athletic Club",
+          "data": "Dom 28/09 18h30",
+          "local": "Arena Pantanal",
+          "time_casa": "Cuiabá",
+          "time_fora": "Athletic Club",
+          "gols_casa": "",
+          "gols_fora": "",
+          "resultado_texto": "Cuiabá  x  Athletic Club"
         },
         {
           "partida": "Remo x CRB",
